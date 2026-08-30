@@ -96,7 +96,7 @@ Foram implementadas 3 funcionalidades interativas, cada uma resolvendo um proble
 
 **Problema:** o mapa SVG só reagia ao passar o mouse (hover), mas o clique não fazia nada — o link apontava para uma âncora interna inexistente — e o painel de "jogos em destaque" ao lado era sempre estático (fixo em "#1 em SP").
 
-**Solução:** ao clicar (ou navegar até o Estado pelo teclado e apertar Enter/Espaço), o Estado é destacado em amarelo de forma persistente e o painel lateral é atualizado dinamicamente: badge "#1 em [UF]", imagem principal e miniaturas passam a refletir os jogos daquele Estado. Estados sem jogos cadastrados mostram uma mensagem amigável com link para "Ver todos os jogos".
+**Solução:** ao clicar em um Estado, o mesmo é destacado em amarelo de forma persistente e o painel lateral é atualizado dinamicamente: badge "#1 em [UF]", imagem principal e miniaturas passam a refletir os jogos daquele Estado. Estados sem jogos cadastrados mostram uma mensagem amigável com link para "Ver todos os jogos".
 
 ### 2. Busca e ordenação em "Todos os Jogos"
 
