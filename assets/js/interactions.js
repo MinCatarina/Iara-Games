@@ -10,7 +10,7 @@
  *   1) Mapa "Explore jogos pelo Brasil" (Home) — clique no Estado atualiza
  *      o painel de jogos em destaque.
  *   2) Busca e ordenação da lista de jogos (Todos os Jogos).
- *   3) Validação em tempo real do formulário "Divulgue seus jogos" (Home).
+ *   3) Validação em tempo real do formulário "Divulgue seu jogos" (Home).
  * -----------------------------------------------------------------------
  */
 
