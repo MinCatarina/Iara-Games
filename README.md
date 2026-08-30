@@ -3,6 +3,7 @@
 # Iara Games
 
 Iara Games é uma plataforma de venda de jogos desenvolvidos por brasileiros ou jogos ambientados no Brasil.
+Informações a respeito da entrega do JavaScript no final da página.
 
 ## IDENTIDADE VISUAL
 A identidade visual da Iara Games foi criada para representar a conexão entre tecnologia, games e brasilidade.
