@@ -86,7 +86,7 @@ Durante o desenvolvimento, aplicamos boas práticas de acessibilidade para garan
 
 ## INTERATIVIDADE COM JAVASCRIPT
 
-Nesta etapa, o grupo evoluiu o mesmo repositório da sprint anterior, adicionando um arquivo JavaScript externo (`assets/js/interactions.js`) vinculado ao HTML já existente, sem refazer o que já havia sido feito.
+Nesta etapa, foi evoluido o mesmo repositório da sprint anterior, adicionando um arquivo JavaScript externo (`assets/js/interactions.js`) vinculado ao HTML já existente, sem refazer o que já havia sido feito.
 
 Foram implementadas 3 funcionalidades interativas, cada uma resolvendo um problema de interação identificado anteriormente na Atividade de Reformulação:
 
