@@ -2,9 +2,7 @@
  * Iara Games — Interações (Atividade: JavaScript externo)
  * -----------------------------------------------------------------------
  * Este arquivo é carregado tanto pela Home (index.html) quanto pela
- * página "Todos os Jogos" (pages/jogos.html). Cada bloco de código só é
- * ativado se os elementos daquela página existirem no DOM, então o mesmo
- * arquivo funciona nas duas páginas sem gerar erros no console.
+ * página "Todos os Jogos" (pages/jogos.html). 
  *
  * Funcionalidades implementadas:
  *   1) Mapa "Explore jogos pelo Brasil" (Home) — clique no Estado atualiza
@@ -26,8 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
    Problema de interação: os Estados do mapa SVG já mudavam de cor no hover,
    mas o clique não fazia nada (o href apontava para uma âncora interna
    inexistente) e o painel de "jogos em destaque" ao lado era sempre
-   estático (fixo em "#1 em SP" e nos mesmos 4 jogos), então o usuário não
-   tinha confirmação nenhuma de que o mapa era, de fato, interativo.
+   estático (fixo em "#1 em SP" e nos mesmos 4 jogos).
 
    Solução: ao clicar (ou ativar pelo teclado) um Estado, ele passa a ficar
    destacado em amarelo de forma persistente, e o painel de jogos em
