@@ -2,16 +2,8 @@
 
 # Iara Games
 
-Nesta terceira fase do projeto, o grupo teve como objetivo aplicar a identidade visual da Iara Games no ambiente digital, utilizando conceitos modernos de desenvolvimento front-end, responsividade e acessibilidade.
+Iara Games é uma plataforma de venda de jogos desenvolvidos por brasileiros ou jogos ambientados no Brasil.
 
-A proposta foi transformar a identidade criada anteriormente em uma experiência funcional e visualmente consistente, desenvolvendo páginas responsivas com foco em navegação intuitiva, organização visual e valorização dos jogos brasileiros.
-
-Foram desenvolvidas duas páginas principais:
-
-- Home da plataforma Iara Games
-- Página extra com temática complementar ao projeto
-
-Durante o desenvolvimento, utilizamos o Bootstrap para estruturar os elementos da interface e otimizar a responsividade da plataforma.
 ## IDENTIDADE VISUAL
 A identidade visual da Iara Games foi criada para representar a conexão entre tecnologia, games e brasilidade.
 
